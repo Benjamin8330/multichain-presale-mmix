@@ -1,0 +1,15 @@
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part01.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part02.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part03.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part04.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part05.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part06.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part07.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part08.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part09.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part10.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part11.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part12.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part13.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part14.rar
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part15.rar

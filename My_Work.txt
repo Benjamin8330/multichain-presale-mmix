@@ -169,3 +169,6 @@ firewall-cmd --permanent --add-port=5901/tcp
 firewall-cmd --reload
 
 
+git commit -m "Initial commit11-50"
+github token
+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

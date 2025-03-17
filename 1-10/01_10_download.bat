@@ -1,0 +1,10 @@
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part01.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part02.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part03.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part04.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part05.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part06.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part07.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part08.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part09.rar.gz
+wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/01-10/gusle_cciss.part10.rar.gz
